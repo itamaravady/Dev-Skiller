@@ -10,10 +10,13 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "^5.0.0"
   },
+  "homepage": "https://itamaravady.github.io/Dev-Skiller",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
