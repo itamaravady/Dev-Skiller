@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Dev-Skiller/static/css/main.c50e9984.css",
-    "main.js": "/Dev-Skiller/static/js/main.bb98a45e.js",
+    "main.css": "/Dev-Skiller/static/css/main.3de0f13f.css",
+    "main.js": "/Dev-Skiller/static/js/main.c889e7df.js",
     "static/media/Roboto-Bold.ttf": "/Dev-Skiller/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
     "static/media/Livvic-Regular.ttf": "/Dev-Skiller/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "static/media/logo.png": "/Dev-Skiller/static/media/logo.8523ccdec3239a5958ad.png",
     "index.html": "/Dev-Skiller/index.html",
-    "main.c50e9984.css.map": "/Dev-Skiller/static/css/main.c50e9984.css.map",
-    "main.bb98a45e.js.map": "/Dev-Skiller/static/js/main.bb98a45e.js.map"
+    "main.3de0f13f.css.map": "/Dev-Skiller/static/css/main.3de0f13f.css.map",
+    "main.c889e7df.js.map": "/Dev-Skiller/static/js/main.c889e7df.js.map"
   },
   "entrypoints": [
-    "static/css/main.c50e9984.css",
-    "static/js/main.bb98a45e.js"
+    "static/css/main.3de0f13f.css",
+    "static/js/main.c889e7df.js"
   ]
 }
