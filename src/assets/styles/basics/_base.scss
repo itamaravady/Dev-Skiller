@@ -16,8 +16,6 @@ html {
 body {
     font-size: rem(18px);
     margin: 0;
-    max-width: 1024px;
-    margin: auto;
 }
 
 h1,
@@ -29,12 +27,6 @@ h6 {
     font-family: roboto;
     margin: 0 0 0.6em;
     line-height: 1;
-}
-
-section,
-main,
-footer {
-    padding: 5px;
 }
 
 img {
