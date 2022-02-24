@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/123/static/css/main.2ca71e2e.css",
-    "main.js": "/123/static/js/main.b789a22e.js",
-    "static/media/Roboto-Bold.ttf": "/123/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
-    "static/media/Livvic-Regular.ttf": "/123/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
-    "static/media/logo.png": "/123/static/media/logo.8523ccdec3239a5958ad.png",
-    "index.html": "/123/index.html",
-    "main.2ca71e2e.css.map": "/123/static/css/main.2ca71e2e.css.map",
-    "main.b789a22e.js.map": "/123/static/js/main.b789a22e.js.map"
+    "main.css": "/Dev-Skiller/static/css/main.c50e9984.css",
+    "main.js": "/Dev-Skiller/static/js/main.bb98a45e.js",
+    "static/media/Roboto-Bold.ttf": "/Dev-Skiller/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Livvic-Regular.ttf": "/Dev-Skiller/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
+    "static/media/logo.png": "/Dev-Skiller/static/media/logo.8523ccdec3239a5958ad.png",
+    "index.html": "/Dev-Skiller/index.html",
+    "main.c50e9984.css.map": "/Dev-Skiller/static/css/main.c50e9984.css.map",
+    "main.bb98a45e.js.map": "/Dev-Skiller/static/js/main.bb98a45e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ca71e2e.css",
-    "static/js/main.b789a22e.js"
+    "static/css/main.c50e9984.css",
+    "static/js/main.bb98a45e.js"
   ]
 }
